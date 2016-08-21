@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\bin\Debug\GoogleIO16-Tickets.exe.config
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\bin\Debug\GoogleIO16-Tickets.exe
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\bin\Debug\GoogleIO16-Tickets.pdb
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\bin\Debug\GoogleIO16-Tickets.xml
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\obj\Debug\GoogleIO16-Tickets.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\obj\Debug\GoogleIO16_Tickets.MainForm.resources
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\obj\Debug\GoogleIO16_Tickets.Resources.resources
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\obj\Debug\GoogleIO16-Tickets.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\obj\Debug\GoogleIO16-Tickets.exe
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\obj\Debug\GoogleIO16-Tickets.xml
+C:\Users\Alumno\Desktop\GoogleIO16-Tickets\GoogleIO16-Tickets\obj\Debug\GoogleIO16-Tickets.pdb
